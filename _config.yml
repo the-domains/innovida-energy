@@ -1,3 +1,4 @@
+layout_spectrum: 0.2012375914491713
 typography_spectrum: 0.39576836465857923
 color:
   brandStrength: 0.7381903522182256
@@ -10,12 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.2012375914491713
-author:
-  name: Innovida
-  email: steven@innovida.com.au
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c27a2ac-fb15-4eb3-bb65-085830185197.png
 name: innovida energy
-title: Innovida Energy
-description: Discover. Optimise. Go Green.
